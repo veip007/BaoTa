@@ -21,3 +21,5 @@ bash <(curl -s -L https://raw.githubusercontent.com/veip007/BaoTa/main/7.51/QY/i
 bash <(curl -s -L https://raw.githubusercontent.com/veip007/BaoTa/main/7.51/QY/install-ubuntu_6.0.sh)
 ```
 注：以上需要安装```curl```环境
+
+### [5.9 专业版](https://github.com/veip007/Crack_BT_Panel)
