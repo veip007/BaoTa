@@ -14,11 +14,11 @@ wget -O install.sh https://raw.githubusercontent.com/veip007/BaoTa/main/7.9/inst
 https://raw.githubusercontent.com/veip007/BaoTa/main/7.9/update6.sh
 ```
 
-另一个破解版
+#### 另一个破解版
 Centos安装命令（默认安装是7.8.0 直接在线升级7.9.4）：
 ```bash
 yum install -y wget && wget -O install.sh http://io.bt.sy/install/install_6.0.sh && sh install.sh
-
+```
 试验性Centos/Ubuntu/Debian安装命令 独立运行环境（py3.7） 可能存在少量兼容性问题 不断优化中
 ```bash
 curl -sSO http://io.bt.sy/install/install_panel.sh && bash install_panel.sh
