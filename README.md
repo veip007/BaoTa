@@ -1,13 +1,18 @@
 ### 7.94 专业版
 centos
 ```bash
-yum install -y wget && wget -O install.sh https://raw.githubusercontent.com/veip007/BaoTa/main/7.9/install_6.0_c.sh && sh install.sh```
+yum install -y wget && wget -O install.sh https://raw.githubusercontent.com/veip007/BaoTa/main/7.9/install_6.0_c.sh && sh install.sh
+```
 
 Ubuntu/Debian
-```wget -O install.sh https://raw.githubusercontent.com/veip007/BaoTa/main/7.9/install_6.0_d.sh && bash install.sh```
+```bash
+wget -O install.sh https://raw.githubusercontent.com/veip007/BaoTa/main/7.9/install_6.0_d.sh && bash install.sh
+```
 
 通用升级脚本
-```https://raw.githubusercontent.com/veip007/BaoTa/main/7.9/update6.sh```
+```bash
+https://raw.githubusercontent.com/veip007/BaoTa/main/7.9/update6.sh
+```
 
 
 
