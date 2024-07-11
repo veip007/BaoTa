@@ -1,3 +1,18 @@
+### 更新命令1
+```bash
+curl https://io.bt.sy/install/update_panel.sh|bash
+```
+### 更新命令2
+```bash
+curl http://io.bt.sy/install/update6.sh|bash
+```
+
+### 8.0.5 专业版
+```bash
+wget -O install.sh http://io.bt.sy/install/install-ubuntu_6.0.sh && bash install.sh
+```
+
+
 ### 7.94 专业版
 centos
 ```bash
@@ -38,14 +53,8 @@ Fedora安装命令:
 wget -O install.sh http://io.bt.sy/install/install_6.0.sh && bash install.sh
 ```
 
-Linux面板 7.9.4 升级企业版命令 1（7.9.4 官方版 / 7.7.0 开心版 可以执行这个升级到 7.9.4 开心版）：
-```bash
-curl https://io.bt.sy/install/update_panel.sh|bash
-```
-Linux面板 7.9.4 升级企业版命令 2（7.9.4 官方版 / 7.7.0 开心版 可以执行这个升级到 7.9.4 开心版）：
-```bash
-curl http://io.bt.sy/install/update6.sh|bash
-```
+
+
 
 ### 7.60 专业版
 
